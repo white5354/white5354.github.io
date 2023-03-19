@@ -17,7 +17,7 @@
   <entry>
     <title>测试文章</title>
     <url>/2023/03/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>测试文章<br><img src="/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/images.png" alt="图片引用方法二"></p>
+    <content><![CDATA[<p>测试文章<br>图片不展示那是问题<br><img src="/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/images.png" alt="图片引用方法二"></p>
 
 ]]></content>
       <categories>
